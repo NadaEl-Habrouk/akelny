@@ -1,0 +1,118 @@
+.p{
+    position: absolute;
+    width: 938px;
+    height: 71px;
+    left: 376px;
+    top: 10px;
+    font-family: 'Odibee Sans';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 50px;
+    line-height: 30px;
+}
+.s{
+    margin-top: 150px;
+    margin-left: 170px;
+}
+.e{
+    width: 121px;
+    height: 32px;
+    font-family: 'Palatino Linotype';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+}
+.email{
+    box-sizing: border-box;
+    display: flex;
+    gap: 10px;
+    width: 460px;
+    height: 60px;
+    padding-left: 20px;
+    background: #FFFFFF;
+    border: 2px solid #878787;
+}
+.p1{
+    width:200px;
+    font-family: 'Palatino Linotype';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+    flex: none;
+}
+.pass{
+    box-sizing: border-box;
+    display: flex;
+    gap: 10px;
+    width: 460px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #878787;
+}
+.p2{
+    width: 200px;
+    font-family: 'Palatino Linotype';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 32px;
+    color: #000000;
+    flex: none;
+}
+.pass2{
+    box-sizing: border-box;
+    display: flex;
+    gap: 10px;
+    width: 460px;
+    height: 60px;
+    background: #FFFFFF;
+    border: 2px solid #878787;
+}
+.b{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-left: 160px;
+    padding-bottom:20px ;
+    padding-right: 160px;
+    gap: 10px;
+    position: absolute;
+    left: 189px;
+    top: 600px;
+    left: 200px;
+    font-size: 26px;
+    font-weight: bold;
+    font-style: normal;
+    color: white;
+    background: #000000;
+    border: 2px solid #000000;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.b:hover{
+    color: rgb(255, 255, 255);
+    background: rgb(144, 3, 3);
+    border-color: #ffffff;
+}
+::-webkit-scrollbar{
+    width: 10px;
+}
+::-webkit-scrollbar-button{
+    
+    background-color: #878787;
+}
+::-webkit-scrollbar-track{
+    background-color: #878787;
+}
+::-webkit-scrollbar-thumb{
+    background-color: black;
+}
+::-webkit-scrollbar-corner{
+    background-color: #EFA619;
+}
